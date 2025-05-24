@@ -1,4 +1,3 @@
-# save_model.py
 import os
 import pickle
 
